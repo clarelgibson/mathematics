@@ -1,0 +1,30 @@
+---
+title: "Linear and Quadratic Inequalities"
+subtitle: "Year 12 - Course 1 - Module 2"
+author: "Clare Gibson"
+date: "2024-06-20"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+# Packages
+library(ggplot2)
+```
+
+# Linear and Quadratic Inequalities
+Testing out ggplot2:
+
+```{r ggplot2-test}
+# define equation
+e <- function(x){2*x^2+5}
+
+# plot equation
+ggplot(
+  data.frame(x=c(-50,50)),
+  aes(x=x)
+) +
+  stat_function(fun = e)
+```
+
