@@ -2,7 +2,13 @@
 title: "Mathematics"
 author: "Clare Gibson"
 date: "2024-06-20"
-output: html_document
+output:
+  html_document:
+    toc: true
+    number_sections: true
+    toc_float: true
+    theme: cosmo
+    code_folding: hide
 ---
 
 ```{r setup, include=FALSE}

@@ -1,9 +1,15 @@
 ---
 title: "Linear and Quadratic Inequalities"
-subtitle: "Year 12 - Course 1 - Module 2"
+subtitle: "Inequalities"
 author: "Clare Gibson"
 date: "2024-06-20"
-output: html_document
+output:
+  html_document:
+    toc: true
+    number_sections: true
+    toc_float: true
+    theme: cosmo
+    code_folding: hide
 ---
 
 ```{r setup, include=FALSE}
