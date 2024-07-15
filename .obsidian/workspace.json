@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "46a82ab28132526f",
+    "type": "split",
+    "children": [
+      {
+        "id": "52549c577d84e40f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1fa5b5a1a69e39b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fleeting notes/Inequalities.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b530dd9515626f13",
+    "type": "split",
+    "children": [
+      {
+        "id": "cdc6d7da40f5305d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5cc239a85a3c1361",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9efd61cc5161d996",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5e293474a0af449c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fa65076b8cf7fadc",
+    "type": "split",
+    "children": [
+      {
+        "id": "4de885749b2cb376",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52d418c56fa08407",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Fleeting notes/Inequalities.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "332b9aaae1089f05",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Fleeting notes/Inequalities.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "179510adcfb97996",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a42b7e0e3e44b316",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Fleeting notes/Inequalities.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b1fa5b5a1a69e39b",
+  "lastOpenFiles": [
+    "Templates/Map of content.md",
+    "Templates/Note template.md",
+    "Fleeting notes/Inequalities.md",
+    "README.md",
+    "Untitled",
+    "Templates",
+    "Permanent notes",
+    "Literature notes",
+    "Fleeting notes"
+  ]
+}
