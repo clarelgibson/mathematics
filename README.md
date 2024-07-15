@@ -1,2 +1,2 @@
-# mathematics
-Welcome to my zettelkasten on mathematics
+# Mathematics
+Welcome to my *zettelkasten* on mathematics.
